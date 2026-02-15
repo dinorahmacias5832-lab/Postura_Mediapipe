@@ -18,6 +18,7 @@ permitiendo su clasificación y análisis estadístico.
 - Python 3.10.0 (recomendado)
 - Cámara web
 - Librerías incluidas en requirements.txt
+  
 Nota:
 Se recomienda utilizar Python 3.10.0 debido a posibles incompatibilidades 
 de MediaPipe con versiones superiores.
