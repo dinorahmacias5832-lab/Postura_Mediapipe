@@ -1,6 +1,11 @@
 # Sistema de Estimación Postural con MediaPipe
 Sistema de estimación postural cervical en tiempo real con análisis estadístico utilizando Python y MediaPipe.
 
+## Autores
+- Dinorah Sureli Macías Hernández
+- Angel Marcelo Gonzalez Montes
+- Itzel Montes Santos
+
 ## Descripción
 
 Este proyecto implementa un sistema de estimación postural utilizando visión por computadora y la librería MediaPipe. 
